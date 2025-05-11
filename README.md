@@ -12,7 +12,7 @@ A React-based application for managing and browsing a list of books. This app al
 
 - React
 - Vite
-- CSS (or Tailwind if used)
+- CSS
 
 ## Getting Started
 
